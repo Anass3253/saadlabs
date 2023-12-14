@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+int sum(int x , int y);
 void main() {
 	cout << "hello world \n";
     int x = 8;
@@ -14,4 +15,8 @@ void main() {
     cin >> age;
 
     cout << age << endl;
+}
+
+int sum(int x, int y){
+    return x + y;
 }
