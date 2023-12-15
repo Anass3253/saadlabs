@@ -15,6 +15,7 @@ void main() {
     cin >> age;
 
     cout << age << endl;
+    cout << age + 4 << endl; 
 }
 
 int sum(int x, int y){
