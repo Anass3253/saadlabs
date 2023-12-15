@@ -3,12 +3,9 @@ using namespace std;
 
 int sum(int x , int y);
 void main() {
-<<<<<<< HEAD
-	cout << "hello world iam HERE \n";
-=======
 	cout << "hello world \n";
     cout << "how are u today! \n";
->>>>>>> 4cb19b3edde729dbc305189b43901edbf5f3d5ef
+    cout << "detached head \n";
     int x = 8;
     int age;
     string name;
