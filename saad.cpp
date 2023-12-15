@@ -3,9 +3,9 @@ using namespace std;
 
 int sum(int x , int y);
 void main() {
+    cout << "new branch \n";
 	cout << "hello world \n";
     cout << "how are u today! \n";
-    cout << "detached head \n";
     int x = 8;
     int age;
     string name;
